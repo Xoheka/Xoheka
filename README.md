@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Xoheka
-- 🌱 I’m currently learning python and how it works
+- 🌱 I’m currently learning python and how IT world works
+
 - 📫 How to reach me xoheka@gmail.com
 
 <!---
